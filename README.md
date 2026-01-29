@@ -5,7 +5,7 @@
 - I’m looking to collaborate on beginner-friendly data projects, especially around data cleaning and visualization.
 - How to reach me: Through My Gmail - itsnavneetmishra89@gmail.com
 - Pronouns: He/Him
-- Fun fact: I’m 16 and already building data projects like a pro!
+- Fun fact: I’m 15 and already building data projects like a pro!
 
 <!---
 NavneetMishraCodes/NavneetMishraCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
