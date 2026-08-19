@@ -1,13 +1,32 @@
-# 👋 Hi, I’m @NavneetMishraCodes
+# 👋 Hey, I'm Navneet
 
-- I’m interested in data analysis and solving real-world problems with Python.
-- I’m currently learning advanced Pandas, Matplotlib, and practical Excel tricks.
-- I’m looking to collaborate on beginner-friendly data projects, especially around data cleaning and visualization.
-- How to reach me: Through My Gmail - itsnavneetmishra89@gmail.com
-- Pronouns: He/Him
-- Fun fact: I’m 15 and already building data projects like a pro!
+I'm a **builder** who likes turning random ideas into things that actually work.
 
-<!---
-NavneetMishraCodes/NavneetMishraCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I don't really stick to one lane — if I get curious about something, I build it.
+
+### 🚀 What I'm Building
+
+* 🎮 Browser games and interactive experiences
+* 🌐 Web projects and experiments
+* 🛠️ Small tools and projects that solve problems
+* 🧠 Learning by building, breaking, and rebuilding
+
+### ⚡ Current Stack
+
+**JavaScript** • **Python** • **Git** • **Vite** • **Canvas** • **Three.js**
+
+### 🔨 Current Projects
+
+🚗 **Indian Rash Driving** — a browser-based driving game built from scratch with JavaScript and Canvas.
+
+🌐 **Indian Parivahan** — a 3D web experience built with Vite and Three.js.
+
+### 🧠 My Philosophy
+
+> **Build → Break → Understand → Improve → Repeat**
+
+I'm here to build things, learn how they work, and keep getting better.
+
+---
+
+📫 **Want to connect?** Feel free to reach out through GitHub.
