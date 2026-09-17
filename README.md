@@ -19,7 +19,7 @@ I don't really stick to one lane — if I get curious about something, I build i
 
 🚗 **Indian Rash Driving** — a browser-based driving game built from scratch with JavaScript and Canvas.
 
-🌐 **Indian Parivahan** — a 3D web experience built with Vite and Three.js.
+🤖 **Panjeta Agent** — a local ai agent paired with remote LLM api that can control you pc the way you want.
 
 ### 🧠 My Philosophy
 
